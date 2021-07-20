@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="convert">Convert</string>
+    <string name="to">To:</string>
+    <string name="amount">Amount</string>
+    <string name="no_internet">No network connection</string>
+    <string name="currency_code">Currency code: %1$s</string>
+    <string name="currency_name">Currency name: %1$s</string>
+    <string name="currency_rate">Currency rate: %1$s</string>
+    <string name="converted_amount">Amount: %1$s</string>
+</resources>
